@@ -1,5 +1,3 @@
-# Cast
-
 The Stargazers are members of the _Intergalactic Alliance_ paving the way for peace and benevolence among all species. They are known for their enthusiasm for science, for their love of fun, and their dedication to education.
 
 Stargazers are fluent in **JavaScript**, so once you connect to their network, simply type in a message into their console.
@@ -99,8 +97,6 @@ Gill carries on generations of tradition in his family as a hydrologist speciali
 | **Singing Voice**              | bass                                     |
 
 # Ichabod
-
-## img: /images/ichabod_tn.svg
 
 Operations supervisor Ichabod is unwavering in adherence to the perfection of order and function. Using inborn impassiveness to distracting influences, Ichabod has led several teams to operational distinction with the advantage of being able to successfully teach precise hoverboard maneuverability.
 
